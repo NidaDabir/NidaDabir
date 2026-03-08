@@ -1,3 +1,7 @@
+<p align="center">
+<img src="banner.png" />
+</p>
+
 ## 💫 About Me
 
 🎓 Data Science & Business Analytics undergraduate at **HSNC University, Mumbai**
