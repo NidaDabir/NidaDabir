@@ -47,15 +47,14 @@ Power BI dashboard analyzing hospital wait time, patient flow and KPIs.
 🔹 **Sales & Orders Analytics Dashboard**  
 Tableau dashboard tracking revenue, sales performance and regional trends.
 
-
-
 ## 📊 GitHub Stats
-
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NidaDabir&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidaDabir&layout=compact&theme=tokyonight"/>
 </p>
+
+
 
 ## 📈 Contribution Graph
 
