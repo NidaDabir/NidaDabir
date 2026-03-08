@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Banner.png" width="650"/>
+<img src="Banner.png" width="700"/>
 </p>
 
 <br>
@@ -38,12 +38,15 @@ Currently exploring **predictive analytics, business intelligence, and applied m
 
 ## ⚙️ Tools I Work With
 
+<p align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nidaa.dabir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nida-Dabir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dabirnida1223@gmail.com) 
@@ -67,10 +70,9 @@ Tableau dashboard tracking revenue, sales performance and regional trends.
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NidaDabir&show_icons=true&theme=tokyonight"/>
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NidaDabir&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NidaDabir&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidaDabir&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 ## 📈 Contribution Graph
