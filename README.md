@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Banner.png" />
+  <img src="Banner.png" width="850"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nida Dabir</h1>
