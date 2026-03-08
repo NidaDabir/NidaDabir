@@ -1,7 +1,8 @@
-
 <p align="center">
-  <img src="Banner.png" width="700">
+<img src="Banner.png" width="650"/>
 </p>
+
+<br>
 
 <h1 align="center">Hi 👋, I'm Nida Dabir</h1>
 
