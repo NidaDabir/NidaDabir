@@ -60,10 +60,7 @@ Tableau dashboard tracking revenue, sales performance and regional trends.
 
 ## 📈 Contribution Graph
 
-![Nida's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NidaDabir&theme=tokyo-night)
-
-
-
+![Nida's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NidaDabir&theme=tokyo-night)
 
 
 
