@@ -27,6 +27,24 @@ Currently exploring **predictive analytics, business intelligence, and applied m
 
 📬 Open to **Data Science, Data Analytics, and Business Intelligence internships**.
 
+
+## 🧠 Currently Learning & Exploring
+
+• Machine Learning Model Development  
+• Data Visualization with Power BI & Tableau  
+• Predictive Analytics using Python  
+• SQL for Data Analysis  
+• Real-world AI & Data Science Projects
+
+## ⚙️ Tools I Work With
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nidaa.dabir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nida-Dabir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dabirnida1223@gmail.com) 
 
